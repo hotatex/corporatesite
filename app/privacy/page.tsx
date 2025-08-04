@@ -97,7 +97,7 @@ export default function PrivacyPolicy() {
             <p className="text-gray-600 mb-4">本ポリシーに関するお問い合わせは、下記の窓口までお願いいたします。</p>
             <div className="bg-gray-50 p-6 rounded-lg">
               <p className="text-gray-700">
-                住所：〒108-0023 東京都港区芝浦３丁目１７−１１天翔オフィス田町 203<br />
+                住所：〒108-0023 東京都港区芝浦３丁目１７−１１天翔オフィス田町 2F<br />
                 社名：株式会社Tailwinds<br />
                 Eメールアドレス：info@tailwinds.co.jp
               </p>

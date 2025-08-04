@@ -40,7 +40,7 @@ export default function Footer() {
               <p>株式会社Tailwinds</p>
               <p>〒108-0023</p>
               <p>東京都港区芝浦３丁目１７−１１</p>
-              <p>天翔オフィス田町 203</p>
+              <p>天翔オフィス田町 2F</p>
             </div>
           </div>
 

@@ -26,7 +26,7 @@ export default function Company() {
   const companyInfo = [
     { label: '会社名', value: '株式会社Tailwinds' },
     { label: '英文表記', value: 'Tailwinds Inc.' },
-    { label: '所在地', value: '〒108-0023\n東京都港区芝浦３丁目１７−１１\n天翔オフィス田町 203' },
+    { label: '所在地', value: '〒108-0023\n東京都港区芝浦３丁目１７−１１\n天翔オフィス田町 2F' },
     { label: '電話番号', value: '03-6275-1750' },
     { label: 'メールアドレス', value: 'info@tailwinds.co.jp' },
     { label: '設立日', value: '令和7年2月20日' },

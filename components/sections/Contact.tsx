@@ -216,7 +216,7 @@ export default function Contact() {
                     <p className="text-gray-400">
                       〒108-0023<br />
                       東京都港区芝浦３丁目１７−１１<br />
-                      天翔オフィス田町 203
+                      天翔オフィス田町 2F
                     </p>
                   </div>
                 </div>
